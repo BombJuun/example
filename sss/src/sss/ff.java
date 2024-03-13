@@ -9,6 +9,7 @@ public class ff {
 		System.out.println("github 연동");
 		System.out.println("github 연동");
 		System.out.println("github 연동");
+		System.out.println("scond branh에서 저장");
 	}
 
 }
